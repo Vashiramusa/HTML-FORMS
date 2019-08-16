@@ -6,3 +6,44 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+.body{
+    background-color: #EDEEF1 ;
+}
+.main-content{
+    width: 318px;
+    margin: auto;
+    margin-top: 100px;
+}
+.form{
+    background: white;
+    border: 1px solid rgb(199, 199, 199);
+    padding: 24px;
+}
+.content-form > h1{
+    font-size: 24px;
+    color: rgb(76, 76, 76); 
+    font-weight: 400;  
+}
+
+.p{
+    font-size: 14px;
+    color: rgb(76, 76, 76);
+}
+
+.link{
+    font-size: 12px;
+    color: rgb(0, 119, 197);
+    text-decoration: none;
+}
+
+.policy-text{
+    font-size: 12px;
+    color: rgb(76, 76, 76);
+    font-style: italic;
+
+}
+.small{
+    font-size: 10px;
+    color: rgb(141, 144, 150); 
+}
+
