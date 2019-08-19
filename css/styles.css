@@ -62,6 +62,10 @@
     width: 100%;
 }
 
+.input-container:first-child {
+    margin-top: 0
+}
+
 .label-input {
     display: block;
 }
