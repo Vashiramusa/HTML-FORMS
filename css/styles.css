@@ -21,7 +21,7 @@
     border-top: none;
     padding-top: 0;
 }
-.content-form > h1{
+.content-form > h1, .title-form{
     font-size: 24px;
     color: rgb(76, 76, 76); 
     font-weight: 400;  
@@ -86,4 +86,24 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.description{
+    display: flex; 
+    flex-direction: column;
+    background-color: #FFF; 
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(199, 199, 199);
+    padding: 32px;
+    border-bottom: none;
+    
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
 }
