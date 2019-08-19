@@ -17,7 +17,9 @@
 .form{
     background: white;
     border: 1px solid rgb(199, 199, 199);
-    padding: 24px;
+    padding: 32px;
+    border-top: none;
+    padding-top: 0;
 }
 .content-form > h1{
     font-size: 24px;
