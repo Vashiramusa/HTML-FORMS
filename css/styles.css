@@ -22,7 +22,7 @@
     padding-top: 0;
     border-bottom: none;
 }
-.content-form > h1, .title-form{
+.title-form{
     font-size: 24px;
     color: rgb(76, 76, 76); 
     font-weight: 400;  
