@@ -176,7 +176,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    flex-direction: column;
     padding: 18px;
 }
 
@@ -200,4 +200,58 @@ text-decoration: none;
     text-align: center;
     
 
+}
+
+
+
+.list {
+    display: flex;
+    max-width: 380px;
+}
+
+.list-item {
+    display: flex;
+    justify-content: center;
+    margin-right: 16px;
+    align-items: center;
+}
+
+.list-item:last-child {
+    margin-right: 0;
+}
+
+
+.icon {
+    content: " ";
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+}
+
+
+.icon-text {
+    font-size: 17px;
+    color: #505050;
+    margin-left: 4px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.blue {
+    background-image: url('../asset/mint-icon.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.red {
+    background :#D52B1E;
+    background-image: url('../asset/red-icon.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.green {
+    background: #2CA01C;
+    background-image: url('../asset/qp-icon.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
