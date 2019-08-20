@@ -179,3 +179,25 @@
     flex-wrap: wrap;
     padding: 18px;
 }
+
+.href-link{
+color: #505050;
+font-size: 12px;
+text-decoration: none;
+}
+
+.bottom-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.policy-p{
+    font-size: 12px;
+    color: #505050;
+    text-align: center;
+    
+
+}
