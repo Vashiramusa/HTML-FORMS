@@ -9,6 +9,42 @@
 .body{
     background-color: #EDEEF1 ;
 }
+
+.sign-up {
+    height: 52px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 32px;
+}
+
+
+.sign-up-description {
+    margin-right: 16px;
+}
+
+
+.sign-up-text {
+    font-size: 12px;
+    color: rgb(76, 76, 76)
+}
+
+.sign-up-link {
+    font-size: 12px;
+    color: rgb(0, 119, 197);
+    text-decoration: none;
+}
+
+
+.sign-in-button {
+    background: #0B79C8;
+    padding: 8px 28px;
+    border: .5px solid black;
+    color: #FFF;
+    border-radius: 4px;
+
+}
+
 .main-content{
     width: 380px;
     margin: auto;
