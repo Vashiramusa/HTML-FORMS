@@ -4,14 +4,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;}
+    font-family: sans-serif; }
 .body { background-color: #edeef1; }
 .sign-up { 
     height: 52px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding-right: 32px;}
+    padding-right: 32px; }
 .sign-up-description { margin-right: 16px; }
 .sign-up-text {
     font-size: 12px;
@@ -85,7 +85,7 @@
     align-items: center;
     border: 1px solid rgb(199, 199, 199);
     padding: 32px;
-    border-bottom: none;} 
+    border-bottom: none; } 
 .text-container {
     display: flex;
     flex-direction: column;
