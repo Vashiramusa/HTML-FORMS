@@ -1,0 +1,24 @@
+{
+  "name": "html-forms",
+  "version": "1.0.0",
+  "description": "second microverse project",
+  "main": "stylelint.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vashiramusa/HTML-FORMS.git"
+  },
+  "author": "Vashira & Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vashiramusa/HTML-FORMS/issues"
+  },
+  "homepage": "https://github.com/Vashiramusa/HTML-FORMS#readme"
+}
