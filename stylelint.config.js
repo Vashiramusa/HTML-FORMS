@@ -15,7 +15,7 @@ module.exports = {
     "at-rule-semicolon-newline-after": "always",
     "block-closing-brace-empty-line-before": "never",
     "block-closing-brace-newline-after": "always",
-    "block-closing-brace-newline-before": "always-multi-line",
+    "block-closing-brace-newline-before": "always",
     "block-opening-brace-newline-after": "always-multi-line",
     "block-opening-brace-space-after": "always-single-line",
     "block-opening-brace-space-before": "always",
