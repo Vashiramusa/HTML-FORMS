@@ -9,10 +9,10 @@ list.
 * To learn about semantic HTML element.
 * To learn how to work with CSS and HTML.
 
-##Screenshot
+## Screenshot
 ![alt text](https://imagensn.com/images/2019/08/21/screenshot.png "Screenshot")
 
-##Authors
+## Authors
 * Santiago Guerra
 * Vashira Musa
 
